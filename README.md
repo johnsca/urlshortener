@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/johnsca/urlshortener.svg?branch=master)](https://travis-ci.org/johnsca/urlshortener)
+
 # Overview
 
 This is a very basic example of an in-memory URL shortening service with a
